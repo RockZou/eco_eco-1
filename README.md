@@ -1,19 +1,22 @@
-<<<<<<< HEAD
-# batoo(working title)
-
-This is a mobile game that aims to use a game to cultivate children's healthier and more environmental habits.
-
-The game itself is an open-world eco-system building game. However, the resources for the open world can open be abtained through users' real-life actions, tracked by different APIs through users' mobile devices.
+##What?
+Eco eco is a mobile game that promotes healthier and greener lifestyles for children (7+yrs). Think of it as clash of clans where users compete to build an ecosystem on the last surviving island after a catastrophe of global warming.
 
 
-##Development Guide
-###Naming convention
-1. Uppercase for every first letter while naming folders, gameobjects and classes. E.g. MyGameObject; ScriptFolder;
-2. The Script Object attached to a Unique GameObject should be named the same as that GameObject.
+Eco eco is a mobile game that promotes healthier and greener lifestyle for children (7+yrs). Think of it as clash of clans where u compete to build an ecosystem on the last surviving island after a catastrophe of global warming.
 
-###Commenting conventions
-1. blabla
-2. blablabla
-=======
-# diva_appmaster
->>>>>>> bc0c16c611839851ade8bdd83d0f77ea9c10b390
+##How?
+greener lifestyle through a game
+daily challenges
+standard challenges
+compete with friends to have a better island
+
+
+##Members
+Rock: rock.zouyan@nyu.edu +971501064621
+Julia: julia.xu@nyu.edu 1(650) 825-5043
+Yaser: yaser.omar.abdelaziz@gmail.com
+
+
+##Project Mentor: 
+Hussam Mohsineh (Advisor, Power of Art Startup Consultancy, UAE) - Hussam@hussam.info - +971553414044
+
