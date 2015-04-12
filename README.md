@@ -20,3 +20,6 @@ Yaser: yaser.omar.abdelaziz@gmail.com
 ##Project Mentor: 
 Hussam Mohsineh (Advisor, Power of Art Startup Consultancy, UAE) - Hussam@hussam.info - +971553414044
 
+##Presentation Link
+https://docs.google.com/presentation/d/1PM2Jo-kaxy2Uy57Lajtzm59yxxvUYAirZO0IQ5KsCDo/edit?usp=sharing
+
